@@ -1,0 +1,23 @@
+# Favicon
+favicon: /favicon.ico
+
+# SEO
+keywords: coding
+
+# Site title separator
+separator: "-"
+
+# RSS
+rss: /atom.xml
+
+# SNS config
+sns:
+  Blog: /archives
+  GitHub: https://github.com/doruksahin
+  Linkedin: https://www.linkedin.com/salih-doruk-sahin
+
+# Nav menu
+menu:
+  Home: /
+  Archives: /archives
+  About: /about

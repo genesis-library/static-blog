@@ -1,7 +1,7 @@
 ---
-title: photos
+title: Hexo Static Blog Template
 toc: true
-date: 2022-01-30 12:19:55
+date: 2022-01-30 19:25:03
 tags:
 categories:
 ---

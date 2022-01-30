@@ -100,3 +100,10 @@ theme: hexo-theme-Wikitten
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ""
+
+codepen:
+  userId: "yuanchuan"
+  theme: "33713"
+  default_tabs: "js,result"
+  height: 500
+  width: "100%"

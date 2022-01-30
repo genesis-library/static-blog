@@ -2,7 +2,11 @@
 title: AWS
 toc: true
 date: 2022-01-30 19:19:37
-tags: serverless, devops, aws, deploy
+tags: 
+- serverless
+- devops
+- aws
+- deploy
 categories: serverless
 ---
 

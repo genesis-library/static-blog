@@ -6,7 +6,7 @@ tags: codepen
 categories: 
 ---
 ## 
- Karabiner Elements kullanılarak CapsLock'a basıldığı zaman hyper key'e basılmış gibi davranabiliyoruz.
+Codepen works in here! Also photos!
 
 {% codepen qBVOMQg result 600 100% doruksahin dark %}
 

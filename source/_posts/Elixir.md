@@ -2,7 +2,10 @@
 title: Elixir
 toc: true
 date: 2022-01-30 19:24:47
-tags: functional, elixir, javascript
+tags: 
+- functional programming
+- elixir
+- javascript
 categories: Programming Languages
 ---
 

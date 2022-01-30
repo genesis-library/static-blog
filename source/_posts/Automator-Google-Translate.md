@@ -2,7 +2,10 @@
 title: Automator Google Translate
 toc: true
 date: 2022-01-30 18:51:26
-tags: automation, automator, translate
+tags: 
+- automation
+- automator
+- translate
 categories: automation
 ---
 

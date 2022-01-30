@@ -2,7 +2,9 @@
 title: Switching Between 2 Screens Script
 toc: true
 date: 2022-01-30 13:58:34
-tags: automation hammerspoon
+tags: 
+- automation 
+- hammerspoon
 categories: automation
 ---
 

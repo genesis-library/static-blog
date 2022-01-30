@@ -2,7 +2,9 @@
 title: Love of Automation
 toc: true
 date: 2022-01-30 19:09:20
-tags: purpose automation
+tags: 
+- purpose 
+- automation
 categories: automation
 ---
 

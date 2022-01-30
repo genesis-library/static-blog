@@ -2,7 +2,9 @@
 title: Karabiner
 toc: true
 date: 2022-01-30 19:06:06
-tags: automation karabiner
+tags: 
+- automation 
+- karabiner
 categories: automation
 ---
 

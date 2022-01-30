@@ -24,4 +24,4 @@ I couldn't figure out how much I would pay for using SQS, SNS, Lambda, Gateway, 
 This requires a good analysis.\
 Or malicious people can attack endpoints and wake up one morning to find out that I have to pay $1000.\
 In order to prevent this, I have no idea whether I need to use the cloudFront service or if it is set automatically.\
-I'm gonna stick onto DigitalOcean for a while.\
+I'm gonna stick onto DigitalOcean for a while.

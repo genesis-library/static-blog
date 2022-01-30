@@ -13,6 +13,6 @@ With using <span style="color:blue">Karabiner Elements</span> you can map a key 
 
 
 
-Karabiner Elements kullanılarak CapsLock'a basıldığı zaman hyper key'e basılmış gibi davranabiliyoruz.
+When ⇪  is pressed using Karabiner Elements, we can act as if the hyper key was pressed.
 
-Bunu yapabilmek için Karabiner Elements'e girin ve complex modifications içerisinden örnek rule olan capslock değiştirmeyi ekleyin.
+To do this, go to Karabiner Elements and add the example rule ⇪  replacement from complex modifications.

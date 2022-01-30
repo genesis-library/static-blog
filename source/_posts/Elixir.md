@@ -9,12 +9,15 @@ tags:
 categories: Programming Languages
 ---
 
-Buraya yazılacak bilgileri olabildiğince doğru yazmak istediğim için elixir ile ilgili  makalemi henüz paylaşmadım.\
+Since I want to write the information to be written here as accurately as possible, I have not complete my article about elixir yet.
 
-Ancak söyleyebilirim ki kendimizi sınırlandırmamalıyız.\
 
-Elbette bir konuda iyi olmak önemlidir. İstisnai durumlar dışında 2 yıldır nodejs yazan bir yazılımcının java'ya geçmesi saçmadır.\
-Yazılımcı için dil ve frameworkler önemlidir çünkü o bunlar iyice öğrenildikten sonra implementasyona dair endişeler azalır.\
-Yazılımcı, O dilin özelliklerini artık iyice bildiği için ufak ayrıntılarla uğraşmak yerine gerçek problemlerle uğraşacaktır.\
+But I can say that we should not limit ourselves.
 
-That's been said, bir dil bir insan derler. Farklı konularda da çalışarak zihnimizi açabiliriz, olaylara farklı açılardan bakabiliriz.\
+
+Of course, being good at something is important. Except for exceptional circumstances, it is absurd that a programmer who has been writing nodejs for 2 years should switch to java.\
+Languages and frameworks are important for the programmer because once they are well learned, the worries about the implementation are reduced.\
+Since the programmer knows the features of that language well, he will deal with real problems instead of dealing with small details.
+
+
+That's been said, they say one language one human. By working on different subjects, we can open our minds and look at things from different angles.
